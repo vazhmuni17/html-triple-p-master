@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @vazhmuni17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# html-freebie-triple-p
+Website Template Name: Triple P (Pixel Perfect Portfolio)
 
-<!---
-vazhmuni17/vazhmuni17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Description: Pixel Perfect Portfolio is a modern and elegant One-Page HTML template. The template is built using technologies such as Bootstrap 3+, jQuery, SASS, Gulp &amp; Bower. It's perfectly suitable for freelancers, designers &amp; all kind of artists who want to show off their work.  
+
+Version: 1
+Author: Pixel Perfect Team
+Author URI: http://pixelperfect.mk/
+Keywords: HTML, CSS, Bootstrap, Responsive, Javascript, jQuery, Parallax, Portfolio, CV, Resume
